@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/cfp/"
 ---
 
-### "The Game of Product Development"
+### *"The Game of Product Development"*
 
 - 20th MODPROD Workshop on Model-Based Cyber-Physical Product Development, February 3-4, 2026
 - 18th OpenModelica Annual Workshop, February 2, 2026
