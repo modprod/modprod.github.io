@@ -18,10 +18,10 @@ permalink: "/cfp/"
 Researchers and practitioners are invited to submit draft presentations, abstracts, or full paper drafts for consideration by the organizing committee. Publication at this event does not prevent future publication at scientific conferences. The submission can be new or recently published work. 
 The submission can be an (short) abstract and (optionally but encouraged) a .pdf file, to be submitted at:
 
-For submission to MODPROD 2026, use 
+For submission to MODPROD 2026, use <br>
 [https://easychair.org/conferences/?conf=modprod2026](https://easychair.org/conferences/?conf=modprod2026)
 
-For submission to OpenModelica 2026, use  
+For submission to OpenModelica 2026, use <br>
 [https://easychair.org/conferences/?conf=openmodelica2026](https://easychair.org/conferences/?conf=openmodelica2026)
 
 #### Important Dates
@@ -36,6 +36,7 @@ In cooperation with INCOSE Sweden and IEEE Computer Society Swedish Chapter
 </p>
 
 ### Preliminary Keynote Speakers
+
 **Prof. Benoit Combemale**, Research Director, INRIA. *Title: To be announced.*
 
 **Prof. Ramin Karim**, Luleå University of Technology. *Title: To be announced.* 
