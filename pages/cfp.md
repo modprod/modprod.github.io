@@ -37,11 +37,11 @@ In cooperation with INCOSE Sweden and IEEE Computer Society Swedish Chapter
 
 ### Preliminary Keynote Speakers
 
-**Prof. Benoit Combemale**, Research Director, INRIA. *Title: To be announced.*
+**Prof. Benoit Combemale**, Research Director, INRIA. *"There is only one time in systems engineering! Towords a continuous (model-based) engineering"*
 
 **Prof. Ramin Karim**, Luleå University of Technology. *Title: To be announced.* 
 
-**Dr. Björn Nagel**, DLR/Linköping University. *Title: To be announced.*
+**Dr. Björn Nagel**, DLR/Linköping University. *"Collaborative Aircraft Design Engineering for Future Technologies"*
 
 ### Topics
 The workshop is concerned with, but not limited to, the following themes:
