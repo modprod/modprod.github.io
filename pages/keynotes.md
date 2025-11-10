@@ -13,7 +13,7 @@ permalink: "/keynotes/"
         <p>
 			<b>Prof. Benoit Combemale</b><br>
             Research Director, INRIA<br>
-            <i>Title will be announced later.</i>
+            <i>"There is only one time in systems engineering! Towords a continuous (model-based) engineering"</i>
 		</p>
     </div>
 </div>
@@ -25,7 +25,7 @@ ___
         <p>
 		    <b>Prof. Ramin Karim</b><br>
             Luleå University of Technology<br>
-            <i>Title will be announced later.</i>
+            <i>"Collaborative Aircraft Design Engineering for Future Technologies"</i>
 	    </p>
     </div>
 	<img src="{{ site.urlimg }}/raminkarim.jpg" alt="" width="147" style="width: 147; height: auto;">
