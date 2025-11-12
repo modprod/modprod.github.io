@@ -39,7 +39,7 @@ In cooperation with INCOSE Sweden and IEEE Computer Society Swedish Chapter
 
 **Prof. Benoit Combemale**, Research Director, INRIA. *"There is only one time in systems engineering! Towords a continuous (model-based) engineering"*
 
-**Prof. Ramin Karim**, Luleå University of Technology. *Title: To be announced.* 
+**Prof. Ramin Karim**, Luleå University of Technology. *"AI Factory for System Lifecycle Management - Concepts and Applications"* 
 
 **Dr. Björn Nagel**, DLR/Linköping University. *"Collaborative Aircraft Design Engineering for Future Technologies"*
 
