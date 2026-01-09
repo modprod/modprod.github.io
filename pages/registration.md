@@ -20,8 +20,8 @@ MODPROD: 4000 SEK (~372 €)\
 (excluding VAT)
 
 ### Higher fees (after January 19):
-OpenModelica: 3350 SEK (~312 €)\
-MODPROD: 5200 SEK (~484 €)\
+OpenModelica: 3350 SEK (~312 EUR)\
+MODPROD: 5200 SEK (~484 EUR)\
 (excluding VAT)
 
 While registration is open until the start of the workshop, *special dietary requests cannot be guaranteed for registrations made later than January 16.*
