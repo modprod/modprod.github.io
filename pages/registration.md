@@ -15,8 +15,8 @@ Register for OpenModelica and/or MODPROD workshops 2026 using the link below:
 [Registration for MODPROD and OpenModelica](https://www.trippus.net/MODPROD_2026_participant)
 
 ### Regular fees (until January 19):
-OpenModelica: 2150 SEK (~200 €)\
-MODPROD: 4000 SEK (~372 €)\
+OpenModelica: 2150 SEK (~200 EUR)\
+MODPROD: 4000 SEK (~372 EUR)\
 (excluding VAT)
 
 ### Higher fees (after January 19):
