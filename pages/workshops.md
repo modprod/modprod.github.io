@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-title: "MODPROD & OpenModelica Workshops 2025"
+title: "MODPROD & OpenModelica Workshops 2026"
 subheadline: ""
 teaser: ""
 permalink: "/workshops/"
@@ -14,9 +14,9 @@ gallery:
       caption: Winter at Link&#246;ping Universeity
 ---
 
-*"*Digital Product Development and AI*"*
+*"*The Game of Product Modelling*"*
 
-Date: February 3-5, 2025\
+Date: February 2-4, 2026\
 Location: **Link&#246;ping University, Sweden**
 
 {% include gallery %}

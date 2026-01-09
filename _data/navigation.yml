@@ -6,10 +6,12 @@
   side: left
   url: "/workshops/"
   dropdown:
-#  - title: "Registration"
-#    url: "/registration/"
-  - title: "Call for Presentations"
-    url: "/cfp/"
+  - title: "Registration"
+    url: "/registration/"
+  - title: "Participant Information"
+    url: "/workshops/"
+#  - title: "Call for Presentations"
+#    url: "/cfp/"
 #  - title: "MODPROD Program"
 #    url: "/programs/modprod_program_2025.pdf"
 #  - title: "OpenModelica Program"
