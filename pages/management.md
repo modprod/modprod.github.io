@@ -36,8 +36,23 @@ The MODPROD center is also responsible for hosting the annual MODPROD workshop.
         <img src="{{ site.urlimg }}robertbraun.jpg" alt="">
         <p><b>Robert Braun</b><br><em>Workshop Chair</em><br>Link&#246;ping University, IEI</p>
     </div><!-- /.medium-4.columns -->
-    
+   
     <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}ludvigknoosfranzen.jpg" alt="">
+        <p><b>Ludvig Kn&#246;&#246;s-Franz&#233;n</b><br>Link&#246;ping University, IEI</p>
+    </div><!-- /.medium-4.columns -->
+        
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}petterkrus.jpg" alt="">
+        <p><b>Prof. Petter Krus</b><br>Link&#246;ping University, IEI</p>
+    </div><!-- /.medium-4.columns -->
+	
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}larseriksson.jpg" alt="">
+        <p><b>Prof. Lars Eriksson</b><br>Link&#246;ping University, ISY</p>
+    </div><!-- /.medium-4.columns -->
+	
+	<div class="medium-4 columns">
         <img src="{{ site.urlimg }}ingostaack.jpg" alt="">
         <p><b>Ingo Staack</b><br>TU Branschweig</p>
     </div><!-- /.medium-4.columns -->
@@ -46,17 +61,7 @@ The MODPROD center is also responsible for hosting the annual MODPROD workshop.
         <img src="{{ site.urlimg }}lenabuffoni.jpg" alt="">
         <p><b>Lena Buffoni</b><br>Link&#246;ping University, IDA</p>
     </div><!-- /.medium-4.columns -->
-    
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}petterkrus.jpg" alt="">
-        <p><b>Prof. Petter Krus</b><br>Link&#246;ping University, IEI</p>
-    </div><!-- /.medium-4.columns -->
-    
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}ludvigknoosfranzen.jpg" alt="">
-        <p><b>Ludvig Kn&#246;&#246;s-Franz&#233;n</b><br>Link&#246;ping University, IEI</p>
-    </div><!-- /.medium-4.columns -->
-    
+	
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}mehditarkian.jpg" alt="">
         <p><b>Mehdi Tarkian</b><br>Link&#246;ping University, IEI</p>
