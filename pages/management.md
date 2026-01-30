@@ -88,6 +88,8 @@ The MODPROD center is also responsible for hosting the annual MODPROD workshop.
     </div><!-- /.medium-4.columns --> 
 	
 	<div class="medium-4 columns">
+	    <img src="{{ site.urlimg }}mattiastiger.jpg" alt="">
+        <p><b>Mattias Tiger</b><br>Link&#246;ping University, IDA</p>
     </div><!-- /.medium-4.columns --> 
 	
 	<div class="medium-4 columns">
