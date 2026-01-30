@@ -86,4 +86,10 @@ The MODPROD center is also responsible for hosting the annual MODPROD workshop.
         <img src="{{ site.urlimg }}gertjohansson.jpg" alt="">
         <p><b>Gert Johansson</b><br>Saab Aeronautics</p>
     </div><!-- /.medium-4.columns --> 
+	
+	<div class="medium-4 columns">
+    </div><!-- /.medium-4.columns --> 
+	
+	<div class="medium-4 columns">
+    </div><!-- /.medium-4.columns --> 
 </div><!-- /.row -->
