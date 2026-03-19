@@ -21,6 +21,8 @@
   url: ""
   side: left
   dropdown:
+  - title: "MODPROD 2026"
+    url: "https://wcc.ep.liu.se/index.php/MODPROD/issue/view/42"
   - title: "MODPROD 2025"
     url: "https://wcc.ep.liu.se/index.php/MODPROD/issue/view/39"
   - title: "MODPROD 2024"
