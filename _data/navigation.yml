@@ -2,18 +2,14 @@
   url: "/"
   side: left
 
-- title: "Workshops 2026"
+- title: "Workshops 2027"
   side: left
   url: "/workshops/"
   dropdown:
-  - title: "Registration"
-    url: "/registration/"
+    title: "Call for Participation"
+    url: "/cfp/"
   - title: "Participant Information"
     url: "/workshops/"
-  - title: "MODPROD Final Program"
-    url: "/programs/modprod_program_2026.pdf"
-  - title: "OpenModelica Final Program"
-    url: "https://openmodelica.org/events/openmodelica-workshop/2026/"
   - title: "Keynote Speakers"
     url: "/keynotes/"
 
