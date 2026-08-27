@@ -37,7 +37,7 @@ In cooperation with INCOSE Sweden and IEEE Computer Society Swedish Chapter
 
 ### Preliminary Keynote Speakers
 
-Will be announced shortly.
+**Staffan Truvé**, CTO, Recorded Future. *Title: To be announced.*
 
 ### Topics
 The workshop is concerned with, but not limited to, the following themes:
