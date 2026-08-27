@@ -7,10 +7,10 @@ teaser: ""
 permalink: "/cfp/"
 ---
 
-### *"The Game of Product Development"*
+### *"AI in engineering - can we trust it?"*
 
-- 20th MODPROD Workshop on Model-Based Cyber-Physical Product Development, February 3-4, 2026
-- 18th OpenModelica Annual Workshop, February 2, 2026
+- 21th MODPROD Workshop on Model-Based Cyber-Physical Product Development, February 2-3, 2027
+- 19th OpenModelica Annual Workshop, February 1, 2027
 
 **Location:** Linköping University
 
@@ -18,15 +18,15 @@ permalink: "/cfp/"
 Researchers and practitioners are invited to submit draft presentations, abstracts, or full paper drafts for consideration by the organizing committee. Publication at this event does not prevent future publication at scientific conferences. The submission can be new or recently published work. 
 The submission can be an (short) abstract and (optionally but encouraged) a .pdf file, to be submitted at:
 
-For submission to MODPROD 2026, use <br>
-[https://easychair.org/conferences/?conf=modprod2026](https://easychair.org/conferences/?conf=modprod2026)
+For submission to MODPROD 2027, use <br>
+[https://easychair.org/conferences/?conf=modprod2027](https://easychair.org/conferences/?conf=modprod2027)
 
-For submission to OpenModelica 2026, use <br>
-[https://easychair.org/conferences/?conf=openmodelica2026](https://easychair.org/conferences/?conf=openmodelica2026)
+For submission to OpenModelica 2027, use <br>
+[https://easychair.org/conferences/?conf=openmodelica2027](https://easychair.org/conferences/?conf=openmodelica2027)
 
 #### Important Dates
-Submission deadline: **November 30, 2025**
-Acceptance notification: **December 6, 2025**
+Submission deadline: **December 13, 2026**
+Acceptance notification: **December 18, 2026**
 
 
 In cooperation with INCOSE Sweden and IEEE Computer Society Swedish Chapter
@@ -37,11 +37,7 @@ In cooperation with INCOSE Sweden and IEEE Computer Society Swedish Chapter
 
 ### Preliminary Keynote Speakers
 
-**Prof. Benoit Combemale**, Research Director, INRIA. *"There is only one time in systems engineering! Towords a continuous (model-based) engineering"*
-
-**Prof. Ramin Karim**, Luleå University of Technology. *"AI Factory for System Lifecycle Management - Concepts and Applications"* 
-
-**Dr. Björn Nagel**, DLR/Linköping University. *"Collaborative Aircraft Design Engineering for Future Technologies"*
+Will be announced shortly.
 
 ### Topics
 The workshop is concerned with, but not limited to, the following themes:
