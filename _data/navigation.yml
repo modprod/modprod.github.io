@@ -6,7 +6,7 @@
   side: left
   url: "/workshops/"
   dropdown:
-    title: "Call for Participation"
+  - title: "Call for Participation"
     url: "/cfp/"
   - title: "Participant Information"
     url: "/workshops/"
