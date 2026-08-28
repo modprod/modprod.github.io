@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: right
-title: "MODPROD & OpenModelica Workshops 2026"
+title: "MODPROD & OpenModelica Workshops 2027"
 subheadline: ""
 teaser: ""
 permalink: "/workshops/"
@@ -14,21 +14,22 @@ gallery:
       caption: Winter at Link&#246;ping Universeity
 ---
 
-*"*The Game of Product Modelling*"*
+*"AI in engineering - can we trust it?"*
 
-Date: February 2-4, 2026\
+Date: February 1-3, 2027\
 Location: **Link&#246;ping University, Sweden**
 
 {% include gallery %}
 
 ### Venue
 
-The workshop will take place at Link&#246;ping University, Building A, Link&#246;ping, Sweden (see maps below). The city Link&#246;ping is situated in southern Sweden, 200 kilometers south of Stockholm. Link&#246;ping University is located about 3 kilometers from the city center.
+The workshop will take place at [Link&#246;ping University, Building A, Link&#246;ping, Sweden](https://maps.app.goo.gl/ChbE2tSSE6xSHTA47). The city Link&#246;ping is situated in southern Sweden, 200 kilometers south of Stockholm. Link&#246;ping University is located about 3 kilometers from the city center.
 
 #### Travelling
 
-Information on travelling to Link&#246;ping is available at [Visit Link&#246;ping](https://visitlinkoping.se/en/plan/travel-to-link%C3%B6ping)
+Information on travelling to Link&#246;ping is available at [Visit Link&#246;ping](https://visitlinkoping.se/en/before-your-trip/trip-to-linkoping/)
 
 #### Accomodition
 
-Information on local hotels is available at [Visit Link&#246;ping](https://visitlinkoping.se/en/plan/accommodation).
+Information on local hotels is available at [Visit Link&#246;ping](https://visitlinkoping.se/en/accommodation/hotels-bbs-hostels/).
+
