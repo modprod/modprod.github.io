@@ -51,6 +51,11 @@ The MODPROD center is also responsible for hosting the annual MODPROD workshop.
         <img src="{{ site.urlimg }}larseriksson.jpg" alt="">
         <p><b>Prof. Lars Eriksson</b><br>Link&#246;ping University, ISY</p>
     </div><!-- /.medium-4.columns -->
+	   
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}danielvarro.jpeg" alt="">
+        <p><b>Prof. Daniel Varro</b><br>Link&#246;ping University, IDA</p>
+    </div><!-- /.medium-4.columns -->  
 	
 	<div class="medium-4 columns">
         <img src="{{ site.urlimg }}ingostaack.jpg" alt="">
@@ -79,18 +84,13 @@ The MODPROD center is also responsible for hosting the annual MODPROD workshop.
     
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}gertjohansson.jpg" alt="">
-        <p><b>Gert Johansson</b><br>Saab Aeronautics</p>
+        <p><b>Gert Johansson</b><br>Saab Dynamics</p>
     </div><!-- /.medium-4.columns --> 
 	
 	<div class="medium-4 columns">
 	    <img src="{{ site.urlimg }}mattiastiger.jpg" alt="">
         <p><b>Mattias Tiger</b><br>Link&#246;ping University, IDA</p>
     </div><!-- /.medium-4.columns --> 
-   
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}danielvarro.jpeg" alt="">
-        <p><b>Daniel Varro</b><br>Link&#246;ping University, IDA</p>
-    </div><!-- /.medium-4.columns -->  
 		    
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}roberthallqvist.jpg" alt="">
