@@ -71,11 +71,6 @@ The MODPROD center is also responsible for hosting the annual MODPROD workshop.
         <img src="{{ site.urlimg }}adrianpop.jpg" alt="">
         <p><b>Adrian Pop</b><br>Link&#246;ping University, IDA</p>
     </div><!-- /.medium-4.columns -->
-    
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}martinsjolund.jpg" alt="">
-        <p><b>Martin Sj&#246;lund</b><br>Link&#246;ping University, IDA</p>
-    </div><!-- /.medium-4.columns -->  
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}erikherzog.jpg" alt="">
@@ -91,7 +86,14 @@ The MODPROD center is also responsible for hosting the annual MODPROD workshop.
 	    <img src="{{ site.urlimg }}mattiastiger.jpg" alt="">
         <p><b>Mattias Tiger</b><br>Link&#246;ping University, IDA</p>
     </div><!-- /.medium-4.columns --> 
-	
-	<div class="medium-4 columns">
-    </div><!-- /.medium-4.columns --> 
+   
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}danielvarro.jpeg" alt="">
+        <p><b>Daniel Varro</b><br>Link&#246;ping University, IDA</p>
+    </div><!-- /.medium-4.columns -->  
+		    
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}roberthallqvist.jpg" alt="">
+        <p><b>Robert H&#228;llqvist</b><br>Saab Aeronautics</p>
+    </div><!-- /.medium-4.columns -->  
 </div><!-- /.row -->
