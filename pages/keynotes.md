@@ -29,7 +29,7 @@ ___
             <i>"Twinning For and By (Cyber-Physical) Systems Engineering"</i>
            </p>
     </div>
-       <img src="{{ site.urlimg }}/hansvangeluwe.jpg" alt="" width="147" style="width: 147; height: auto;">
+       <img src="{{ site.urlimg }}/hansvangheluwe.jpg" alt="" width="147" style="width: 147; height: auto;">
 </div>
 Hans Vangheluwe is a Professor of Computer Science at the University of Antwerp and a leading researcher in multi-paradigm modelling, simulation, and model-based systems engineering, with a focus on the development of complex cyber-physical systems.
 
