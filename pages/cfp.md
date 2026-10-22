@@ -25,8 +25,8 @@ For submission to OpenModelica 2027, use <br>
 [https://easychair.org/conferences/?conf=openmodelica2027](https://easychair.org/conferences/?conf=openmodelica2027)
 
 #### Important Dates
-Submission deadline: **December 13, 2026**
-Acceptance notification: **December 18, 2026**
+Submission deadline: **November 29, 2026**
+Acceptance notification: **December 5, 2026**
 
 
 In cooperation with INCOSE Sweden and IEEE Computer Society Swedish Chapter
